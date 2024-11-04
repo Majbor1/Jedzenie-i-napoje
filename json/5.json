@@ -1,3 +1,37 @@
 [
-    {}
+    {
+        "nazwa":"pepsi",
+        "utworzenie":1898,
+        "producent":"PepsiCo",
+        "smak": "colowy",
+        "lubię":true
+    },
+    {
+        "nazwa":"canada dry",
+        "utworzenie":1904,
+        "producent":"Dr Pepper Snapple",
+        "smak": "imbirowy",
+        "lubię":true
+    },
+    {
+        "nazwa":"kinley",
+        "utworzenie":2000,
+        "producent":"The Coca-Cola Company",
+        "smak": "tonik",
+        "lubię":false
+    },
+    {
+        "nazwa":"red bull",
+        "utworzenie":1987,
+        "producent":"Red Bull GmbH",
+        "smak": "napój energetyczny",
+        "lubię":true
+    },
+    {
+        "nazwa":"lipton",
+        "utworzenie":1890,
+        "producent":"Unilever",
+        "smak": "herbaciany",
+        "lubię":true
+    }
 ]
