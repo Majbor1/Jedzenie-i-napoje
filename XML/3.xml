@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rodzaj_jedzenia>
+    <rodzaj>
+        <name>cola</name>
+        <temperatura>zimne</temperatura>
+        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
+        <smak>slodki</smak>
+    </rodzaj>
+
+    <rodzaj>
+        <name>kawa</name>
+        <temperatura>cieple</temperatura>
+        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
+        <smak>gorzki</smak>
+    </rodzaj>
+
+    <rodzaj>
+        <name>lody</name>
+        <temperatura>zimne</temperatura>
+        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
+        <smak>slodki</smak>
+    </rodzaj>
+
+    <rodzaj>
+        <name>zupa</name>
+        <temperatura>cieple</temperatura>
+        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
+        <smak>gorzki</smak>
+    </rodzaj>
+
+    <rodzaj>
+        <name>zgnile_mieso</name>
+        <temperatura>pokojowa</temperatura>
+        <czy_zdatne_do_spozycia>nie</czy_zdatne_do_spozycia>
+        <smak>gorzki</smak>
+    </rodzaj>
+
+    <rodzaj>
+        <name>trucizna</name>
+        <temperatura>pokojowa</temperatura>
+        <czy_zdatne_do_spozycia>nie</czy_zdatne_do_spozycia>
+        <smak>neutralne</smak>
+    </rodzaj>
+</rodzaj_jedzenia>
