@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rodzaj_jedzenia>
     <rodzaj>
-        <name>cola</name>
-        <temperatura>zimne</temperatura>
-        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
-        <smak>slodki</smak>
+        <name brand="coca-cola" owner="cola-cola">cola</name>
+        <temperatura czy_goroce="nie" czy zmrozone="nie">zimne</temperatura>
+        <czy_zdatne_do_spozycia zdatne="tak" zalecane="tak">tak</czy_zdatne_do_spozycia>
+        <smak typ="slodki" czy_lubiany="tak">slodki</smak>
     </rodzaj>
 
     <rodzaj>
-        <name>kawa</name>
-        <temperatura>cieple</temperatura>
-        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
-        <smak>gorzki</smak>
+        <name brand="jacobs" owner="jacobs-company">kawa</name>
+        <temperatura czy_gorace="tak" czy zmrozone="nie">cieple</temperatura>
+        <czy_zdatne_do_spozycia zdatne="tak" zalecane="tak">tak</czy_zdatne_do_spozycia>
+        <smak typ="gorzki" czy_lubiany="nie">gorzki</smak>
     </rodzaj>
 
     <rodzaj>
-        <name>lody</name>
-        <temperatura>zimne</temperatura>
-        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
-        <smak>slodki</smak>
+        <name brand="grycan" owner="firma_x">lody</name>
+        <temperatura czy_goroce="nie" czy zmrozone="tak">zimne</temperatura>
+        <czy_zdatne_do_spozycia zdatne="tak" zalecane="tak">tak</czy_zdatne_do_spozycia>
+        <smak typ="slodki" czy_lubiany="tak">slodki</smak>
     </rodzaj>
 
     <rodzaj>
-        <name>zupa</name>
-        <temperatura>cieple</temperatura>
-        <czy_zdatne_do_spozycia>tak</czy_zdatne_do_spozycia>
-        <smak>gorzki</smak>
+        <name brand="amino" owner="firma_y">zupa</name>
+        <temperatura czy_goroce="tak" czy zmrozone="nie">zimne</temperatura>
+        <czy_zdatne_do_spozycia zdatne="tak" zalecane="tak">tak</czy_zdatne_do_spozycia>
+        <smak typ="slodki" czy_lubiany="tak">gorzki</smak>
     </rodzaj>
 
     <rodzaj>
-        <name>zgnile_mieso</name>
-        <temperatura>pokojowa</temperatura>
-        <czy_zdatne_do_spozycia>nie</czy_zdatne_do_spozycia>
-        <smak>gorzki</smak>
+        <name brand="zombie" owner="firma_z">zgnile_mieso</name>
+        <temperatura czy_goroce="nie" czy zmrozone="nie">pokojowa</temperatura>
+        <czy_zdatne_do_spozycia zdatne="nie" zalecane="nie">nie</czy_zdatne_do_spozycia>
+        <smak typ="gorzki" czy_lubiany="nie">gorzki</smak>
     </rodzaj>
 
     <rodzaj>
-        <name>trucizna</name>
-        <temperatura>pokojowa</temperatura>
-        <czy_zdatne_do_spozycia>nie</czy_zdatne_do_spozycia>
-        <smak>neutralne</smak>
+        <name brand="rycyna" owner="firma_k">trucizna</name>
+        <temperatura czy_goroce="nie" czy zmrozone="tak">pokojowa</temperatura>
+        <czy_zdatne_do_spozycia zdatne="tak" zalecane="tak">nie</czy_zdatne_do_spozycia>
+        <smak typ="slodki" czy_lubiany="tak">neutralne</smak>
     </rodzaj>
 </rodzaj_jedzenia>
