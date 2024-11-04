@@ -1,0 +1,13 @@
+{
+    "ulubiony_napój": "Pepsi",
+    "cena": 3.50,
+    "kolor": "niebieski",
+    "rodzaj": ["puszka", "plastikowa butelka", "szklana butelka"],
+    "smak": "colowy",
+    "lubię": true,
+    "powstanie": 1898,
+    "smaki":{
+        "owocowy":"wiśniowy",
+        "roślinny":"waniliowy"
+    }
+}
